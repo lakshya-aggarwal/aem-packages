@@ -1,0 +1,1 @@
+# adaptivev-aem-component
