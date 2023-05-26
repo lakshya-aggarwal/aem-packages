@@ -1,1 +1,1 @@
-# adaptivev-aem-component
+# aem-packages
